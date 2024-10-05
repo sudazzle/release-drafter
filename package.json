@@ -1,0 +1,11 @@
+{
+  "name": "release-drafter",
+  "version": "1.0.0",
+  "description": "This is a test project to try out release-drafter for deployment strategy with staging environment for manual testing and once changes approved production environment is triggred for deployment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudaman Shrestha",
+  "license": "ISC"
+}
